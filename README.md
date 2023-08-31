@@ -1,4 +1,4 @@
-Analogue Clock made in Java using the Processing library.
+Analogue Clock made in Processing which uses Jthe Java programming language.
 The needles of the clock are controlled via the time on the device on which the clock is displayed.
 The JS version can be found [here](https://www.khanacademy.org/computer-programming/analogue-clock/6669260049399808).
 
